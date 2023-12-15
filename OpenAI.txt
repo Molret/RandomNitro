@@ -1,0 +1,14 @@
+https://auth0.openai.com jasperscheers@outlook.com:RazerMouse123.
+https://auth0.openai.com/u/login/password jasperscheers@outlook.com:RazerMouse123.
+https://auth0.openai.com/u/login/password thomas.vantomme01@gmail.com:G2@mlg2mg
+https://auth0.openai.com/u/signup arun.idk@outlook.com:Ertdfgxcv20
+https://auth0.openai.com/u/signup matteoperego914@gmail.com:Matteo13
+https://auth0.openai.com/u/signup vicendoz@gmail.com:Goh*HOj3
+https://auth0.openai.com/u/signup/password alishokery2@gmail.com:qaz123WSX?><
+https://auth0.openai.com/u/signup/password avscor@gmail.com:vavavava
+https://auth0.openai.com/u/signup/password chuajoenathan@gmail.com:gabgab23
+https://auth0.openai.com/u/signup/password dostmu@student.jpc.qld.edu.au:Aryandost786
+https://auth0.openai.com/u/signup/password flametrawelss@gmail.com:9N5EZfGj
+https://auth0.openai.com/u/signup/password jasperscheers@outlook.com:RazerMouse123.
+https://auth0.openai.com/u/signup/password kibetkiprono5@gmail.com:0710950078
+https://auth0.openai.com/u/signup/password peninnahmwenja@gmail.com:0243781820
